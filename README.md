@@ -1,5 +1,8 @@
 # Demonstration interactive IPython widgets
-Plotly + ipywidgets + keras
+Plotly + ipywidgets + tensorflow
+
+Thanks Fabio https://github.com/fabiodimarco/tf-levenberg-marquardt 
+
 ## Data
  - cancer https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
  - iris https://en.wikipedia.org/wiki/Iris_flower_data_set
